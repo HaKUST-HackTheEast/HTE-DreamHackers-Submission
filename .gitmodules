@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/HaKUST-HackTheEast/BackendRepo.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/HaKUST-HackTheEast/FrontEndRepo.git
